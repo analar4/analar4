@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Ana Lara and I'm a student at Alura
 
 <!--
 **analar4/analar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
